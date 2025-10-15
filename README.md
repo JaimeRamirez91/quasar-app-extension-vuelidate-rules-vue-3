@@ -14,11 +14,10 @@ Leveraging the power of Vuelidate also requires more code to set up a validation
 More information about Quasar Validation: https://quasar.dev/vue-components/field#Validation and Form component: https://quasar.dev/vue-components/form
 
 # Install
-Quasar 2 compatible ( => version 0.4.0 )
+Quasar 2 compatible
 ```bash
 quasar ext add vuelidate-rules
 ```
-For Quasar 1, please use version 0.3.2
 
 # Usage
 The extension will inject the $rules object to the Vue instance, the rules will then be available in the components. The customized error message is optional, always as the last parameter, and if not provided it will return `false`.
@@ -135,4 +134,4 @@ Check if is a specific value. This is not a method of Vuelidate but may be usefu
 ### Related projects
 * Quasar Framework https://quasar.dev/
 * Vuelidate https://vuelidate.js.org
-* NeQu (Nest + Quasar Boilerplate) https://github.com/cuatromedios/nequ 
+* Forked from `https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules`
