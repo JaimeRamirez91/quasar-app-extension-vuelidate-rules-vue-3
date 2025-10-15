@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3.git"
   },
-  "bugs": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3issues",
+  "bugs": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3/issues",
   "homepage": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3",
   "engines": {
     "node": ">= 20.19.0",
