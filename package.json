@@ -1,8 +1,8 @@
 {
   "name": "quasar-app-extension-vuelidate-rules",
-  "version": "0.5.1",
-  "description": "Use Vuelidate methods as internal Quasar rules for validation",
-  "author": "Ramses <ramses@cuatromedios.com>",
+  "version": "1.0",
+  "description": "Use Vuelidate methods as internal Quasar rules for validation based on ( https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules )",
+  "author": "jaimeramirez91 <jaimeramirez14611@gmail.com>",
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules.git"
+    "url": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3.git"
   },
-  "bugs": "https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules/issues",
-  "homepage": "https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules",
+  "bugs": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3issues",
+  "homepage": "https://github.com/JaimeRamirez91/quasar-app-extension-vuelidate-rules-vue-3",
   "engines": {
-    "node": ">= 8.9.0",
-    "npm": ">= 5.6.0",
-    "yarn": ">= 1.6.0"
+    "node": ">= 20.19.0",
+    "npm": ">= 8.19.4",
+    "yarn": ">= 1.21.1"
   },
   "dependencies": {
-    "@vuelidate/validators": "^2.0.0-alpha.18"
+    "@vuelidate/validators": "^2.0.4"
   }
 }
