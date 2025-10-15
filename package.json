@@ -1,6 +1,6 @@
 {
-  "name": "quasar-app-extension-vuelidate-rules",
-  "version": "1.0",
+  "name": "quasar-app-extension-vuelidate-rules-vue-3",
+  "version": "1.0.0",
   "description": "Use Vuelidate methods as internal Quasar rules for validation based on ( https://github.com/cuatromedios/quasar-app-extension-vuelidate-rules )",
   "author": "jaimeramirez91 <jaimeramirez14611@gmail.com>",
   "license": "MIT",
